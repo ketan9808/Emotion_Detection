@@ -8,11 +8,12 @@ This repository contain notebook demonstrating how you can create your own emoti
 
 ## Getting Started
 
-The notebook was created using Google colab and provide link to Google colab so you can go and experiment with code there. Just upload your kaggle api key and you are ready to expriment with code.
+The notebook was created using Google colab and provide link to Google colab so you can go and experiment with code there. Just upload your kaggle api key and you are ready to go.
 
 ## Data
 
 The data is taken from a kaggle challenge called [Facial Expression Recognition Challenge](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/overview). You can visit the challenge page for more information
+
 
 ## Built With
 
